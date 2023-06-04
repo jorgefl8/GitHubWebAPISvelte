@@ -1,5 +1,5 @@
 # GitHubWebAPISvelte
-- This app show your playlist on spotify with the number of tracks associated. 
+- This app show your followers and following on GitHub. 
 - The backend is developed in NodeJS and the frontend in Svelte.
 - Using authorization by OAUTH.
 
